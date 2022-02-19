@@ -1,0 +1,4 @@
+#Sat Feb 19 20:37:55 ICT 2022
+base.0=C\:\\Users\\Vinh\\Desktop\\MobileBaiTap\\Tour\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
